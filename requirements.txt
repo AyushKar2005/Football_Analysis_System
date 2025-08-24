@@ -1,0 +1,16 @@
+# Core notebook + kernel support
+ipykernel
+notebook
+jupyterlab
+
+# Computer vision + YOLOv8 (CPU only)
+ultralytics
+opencv-python
+
+# Roboflow API
+roboflow
+
+# Helpful utilities
+matplotlib
+pandas
+numpy
